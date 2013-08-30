@@ -1,0 +1,7 @@
+*.hi
+*.o
+dist/
+log/
+tags
+bot.yml
+main

@@ -1,0 +1,3 @@
+Account:
+    username: "localpart@domainpart"
+    password: "password"
